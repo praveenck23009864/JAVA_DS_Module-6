@@ -20,8 +20,8 @@ To write a java function to evaluate weather the given Matrix A has all odd numb
 ```
 /*
 Program to ind the nature of resultant matrrix.
-Developed by: Ramya.P
-RegisterNumber:  212223240137
+Developed by: praveemn ck
+RegisterNumber:  212222243003
 */
 
 
